@@ -1,0 +1,14 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #f8ff7d;
+}
+
+i
+
+button{
+    margin: 10px;
+    width: 70vw;
+}
