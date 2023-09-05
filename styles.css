@@ -6,7 +6,9 @@ body{
     background-color: #f8ff7d;
 }
 
-i
+#outputMsg{
+    font-style: italic;
+}
 
 button{
     margin: 10px;
